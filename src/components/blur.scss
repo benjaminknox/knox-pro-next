@@ -1,0 +1,27 @@
+section.blur-wrapper {
+  width: 785px;
+  height: 965px;
+  transform: translateX(-50%);
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  z-index: 1;
+
+  div.tan-blur {
+    border-radius: 423px;
+    background: rgba(155, 169, 152, 0.80);
+    filter: blur(200px);
+    width: 423px;
+    height: 423px;
+  }
+
+  div.blue-blur {
+    margin-top: 100px;
+    border-radius: 395px;
+    background: #285765;
+    filter: blur(200px);
+    width: 395px;
+    height: 395px;
+    float: right;
+  }
+}

@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sand-color-rgb: 223, 227, 222; 
+  --font-color-rgba: var(--sand-color-rgb), 0.75; 
+  --block-border-color-rgba: var(--sand-color-rgb), 0.50; 
+  --block-bg-color-rgb: 0, 15, 20;
+}
+
+body {
+  color: rgb(var(--sand-color-rgb));
+  background-size: 1800px;
+  background-image: url(../../public/background.jpg);
+  background-color: rgb(0, 0, 0);
+  background-position-y: 0;
+  background-position-x: center;
+  background-repeat: no-repeat;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 52px;
+}
+
+main {
+  padding: 30px;
+  overflow: hidden;
+}

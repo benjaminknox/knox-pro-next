@@ -1,0 +1,19 @@
+header {
+  margin-top: 125px;
+
+  h2 {
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 25px;
+  }
+
+  img.portrait {
+    margin-top: 207px;
+    border: 4px solid rgba(var(--font-color-rgba));
+    border-radius: 20px;
+  }
+  
+  img.down-arrow {
+    margin-top: 159px;
+  }
+}
