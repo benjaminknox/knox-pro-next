@@ -23,11 +23,7 @@ https://github.com/benjaminknox/knox-pro-next/assets/5668789/67c01dd8-4196-4fa3-
 You can run this locally with:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
 ```
 
 ### Building
@@ -51,11 +47,7 @@ You can build with this command:
 
 
 ```bash
-npm run build
-# or
 yarn build
-# or
-pnpm build
 ```
 
 The build ends up being in `./out`, and I've deploy on [DigitalOcean app-platform](https://www.digitalocean.com/go/app-platform).
