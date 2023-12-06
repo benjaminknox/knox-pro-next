@@ -8,29 +8,13 @@ export const Intro = () => (
       and authenticity.
     </p>
     <p>
-      As a software engineer with a lifetime of interest in software
-      development, I&apos;ve been navigating the complex landscape of this
-      field. My journey at different companies and projects has been a deeply
-      meaningful one.
+      As a software engineer with a lifelong passion for coding, I&apos;ve been on a fulfilling journey through the ever-evolving world of software development. With a wealth of experience at various companies and projects under my belt, I&apos;ve had the opportunity to explore the depths of this field and hone my skills.
     </p>
     <p>
-      But beyond the meaningful roles as an engineer, I&apos;m also a believer
-      in building genuine connections. I believe that authentic interactions are
-      the foundation of professional success. It&apos;s not just about the work;
-      it&apos;s about the relationships we cultivate along the way.
+      But I&apos;m not just about writing code – I also value building meaningful connections with my colleagues. I believe that authentic relationships are the key to professional success, and I strive to cultivate genuine interactions in everything I do. Whether it&apos;s collaborating on a project or simply grabbing coffee with a team member, I believe that investing in people is just as important as investing in the work itself.
     </p>
     <p>
-      This website is an open door into my professional life, and it&apos;s an
-      invitation to connect on a deeper level. Explore the milestones of my
-      career, gain insights into my passions, and see how my professional path
-      has been influenced by my values.
-    </p>
-    <p>
-      I invite you to reach out, not as a faceless entity but as a fellow
-      traveler on this journey. Let&apos;s forge meaningful connections, discuss
-      exciting opportunities, and share in the joys and challenges of the
-      software development industry. I&apos;m here to listen, collaborate, and
-      grow with you.
+      I warmly invite you to reach out to me, not as a distant figure but as a fellow professional. Let&apos;s establish meaningful connections, explore exciting opportunities, and share in the triumphs and challenges of the software development industry. I&apos;m here to listen, collaborate, and grow with you.
     </p>
     <p>
       Thank you for taking the time to visit, and I&apos;m genuinely looking
