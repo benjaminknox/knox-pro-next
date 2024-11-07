@@ -13,7 +13,7 @@ interface ExperienceProps {
 export const Experience = ({ logo, content, companyUrl }: ExperienceProps) => (
   <Link className="experience-anchor" target="_blank" href={companyUrl}>
     <div className="flex flex-col sm:flex-row experience">
-      <div className="flex content-center justify-center logo-wrapper">
+      <div className="flex items-center justify-center logo-wrapper">
         {logo}
       </div>
       <div className="content">{content}</div>
