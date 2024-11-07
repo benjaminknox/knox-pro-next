@@ -1,28 +1,31 @@
-div.experience {
-  cursor: pointer;
+a.experience-anchor {
   margin-top: 64px;
-  border-radius: 10px;
-  border: 1px solid rgba(var(--block-border-color-rgba));
-  background-color: rgb(var(--block-bg-color-rgb));
-  position: relative;
-  z-index: 2;
-  padding: 30px;
 
-  gap: 36px;
+  div.experience {
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid rgba(var(--block-border-color-rgba));
+    background-color: rgb(var(--block-bg-color-rgb));
+    position: relative;
+    z-index: 2;
+    padding: 30px;
 
-  div.logo-wrapper {
-    min-width: 232px;
+    gap: 36px;
 
-    @media (min-width: 640px) {
-      border-right: 1px solid rgba(var(--block-border-color-rgba));
+    div.logo-wrapper {
+      min-width: 232px;
+
+      @media (min-width: 640px) {
+        border-right: 1px solid rgba(var(--block-border-color-rgba));
+      }
     }
-  }
 
-  div.content {
-    font-size: 16px;
+    div.content {
+      font-size: 16px;
 
-    @media (max-width: 640px) {
-      text-align: center;
+      @media (max-width: 640px) {
+        text-align: center;
+      }
     }
   }
 }
