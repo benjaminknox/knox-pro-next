@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Blur } from "@/components/blur";
 import "@/components/experience-list.scss";
 import { Experience } from "@/components/experience";
+import Accountable2YouLogo from "@/svgs/accountable2you-logo.svg";
 import PhysnaLogo from "@/svgs/physna-logo.svg";
 import ThangsLogo from "@/svgs/thangs-logo.svg";
 import SiemensLogo from "@/svgs/siemens-logo.svg";
@@ -9,7 +10,12 @@ import ClearVoiceLogo from "@/svgs/clearvoice-logo.svg";
 
 export const ExperienceList = () => (
   <section className="flex flex-col justify-center experience-list">
-    <h1>Recent Experience</h1>
+    <h1>Experience</h1>
+    <Experience
+      logo={<Image alt="Accountable2You" width={160} src={Accountable2YouLogo} />}
+      content="As a DevOps Engineer at Accountable2You, I design and manage cloud infrastructure on AWS, using OpenTofu for infrastructure-as-code. I implemented Kubernetes for our APIs and workloads and build CI/CD pipelines using Bitbucket pipelines."
+      companyUrl="https://accountable2you.com"
+    />
     <Experience
       logo={<Image alt="Siemens" width={140} src={SiemensLogo} />}
       content="At Siemens, I help lead frontend development and UI/UX design, collaborating closely with stakeholders to design and implement high-quality, user-centric applications, optimizing performance, scalability, and security to support our global infrastructure and ambitious project goals."

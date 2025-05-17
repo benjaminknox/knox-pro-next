@@ -3,23 +3,19 @@ import "./intro.scss";
 export const Intro = () => (
   <article className="intro">
     <p>
-      Hello there! Welcome to the heart of my professional journey, where I,
-      Benjamin Knox, strive to combine the best of both worlds - professionalism
-      and authenticity.
+      Greetings! I&apos;m Benjamin Knox, and this is where my passion for software engineering meets a commitment to real, human connections.
     </p>
     <p>
-      As a software engineer with a lifelong passion for coding, I&apos;ve been on a fulfilling journey through the ever-evolving world of software development. With a wealth of experience at various companies and projects under my belt, I&apos;ve had the opportunity to explore the depths of this field and hone my skills.
+      As a seasoned coder, I&apos;ve navigated the dynamic landscape of software development, building expertise across diverse projects and teams. My journey is driven by a love for crafting solutions that work—and a belief that great code is only half the story.
     </p>
     <p>
-      But I&apos;m not just about writing code – I also value building meaningful connections with my colleagues. I believe that authentic relationships are the key to professional success, and I strive to cultivate genuine interactions in everything I do. Whether it&apos;s collaborating on a project or simply grabbing coffee with a team member, I believe that investing in people is just as important as investing in the work itself.
+      For me, it&apos;s equally about the people behind the projects. I thrive on fostering trust and collaboration, whether through teamwork on cutting-edge tech or a quick chat over coffee. Authentic relationships fuel innovation, and I&apos;m here to build them.
     </p>
     <p>
-      I warmly invite you to reach out to me, not as a distant figure but as a fellow professional. Let&apos;s establish meaningful connections, explore exciting opportunities, and share in the triumphs and challenges of the software development industry. I&apos;m here to listen, collaborate, and grow with you.
+      I invite you to connect with me as a partner in this exciting field. Let&apos;s share ideas, tackle challenges, and create something extraordinary together. Thanks for stopping by—I&apos;m eager to dive into the world of software development with you!
     </p>
     <p>
-      Thank you for taking the time to visit, and I&apos;m genuinely looking
-      forward to connecting with you, both in our shared interests in software
-      development.
+      With years of experience in building robust applications and contributing to collaborative projects, I bring a strong foundation in coding and problem-solving to every endeavor. I&apos;m excited to apply this expertise to new opportunities and create meaningful impact together!
     </p>
   </article>
 );
